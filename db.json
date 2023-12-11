@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?cs=srgb&dl=wood-wristwatch-time-190819.jpg&fm=jpg",
+      "title":"watch",
+      "price":100,
+      "quantity":1
+    },
+    {
+      "id": 2,
+      "image": "http://2.bp.blogspot.com/-gPcez4VcIjk/UFH44hPMsTI/AAAAAAAAGQU/j2GyIChllQM/s1600/iphone-5-official-1920x1200.jpg",
+      "title":"iphone",
+      "price":300,
+      "quantity":1
+    },
+    {
+      "id": 3,
+      "image": "https://images.anandtech.com/doci/12605/G315-1.jpg",
+      "title":"laptop",
+      "price":500,
+      "quantity":1
+    },
+    {
+      "id": 4,
+      "image": "https://www.macworld.com/wp-content/uploads/2021/04/ipad-air-2020.jpeg?quality=50&strip=all",
+      "title":"ipad",
+      "price":436,
+      "quantity":1
+    },
+    {
+      "id": 5,
+      "image": "https://betanews.com/wp-content/uploads/2015/05/router.jpg",
+      "title":"routers",
+      "price":436,
+      "quantity":1
+    },
+    {
+      "id": 6,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bgqR0BQhL._SL1500_.jpg",
+      "title":"Earphones",
+      "price":336,
+      "quantity":1
+    },
+    {
+      "id":7,
+      "image":"https://images.furnituredealer.net/img/products/whirlpool/color/french%20door%20refrigerators-%20whirlpool_wrf767sdhv-b1.jpg",
+      "title":"Refridgerator",
+      "price":1060,
+      "quantity":1
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?cs=srgb&dl=wood-wristwatch-time-190819.jpg&fm=jpg",
+      "title":"watch",
+      "price":220,
+      "quantity":1
+    },
+    {
+      "id": 9,
+      "image": "http://2.bp.blogspot.com/-gPcez4VcIjk/UFH44hPMsTI/AAAAAAAAGQU/j2GyIChllQM/s1600/iphone-5-official-1920x1200.jpg",
+      "title":"iphone",
+      "price":700,
+      "quantity":1
+    },
+    {
+      "id": 10,
+      "image": "https://images.anandtech.com/doci/12605/G315-1.jpg",
+      "title":"laptop",
+      "price":999,
+      "quantity":1
+    },
+    {
+      "id": 11,
+      "image": "https://www.macworld.com/wp-content/uploads/2021/04/ipad-air-2020.jpeg?quality=50&strip=all",
+      "title":"ipad",
+      "price":836,
+      "quantity":1
+    },
+    {
+      "id": 12,
+      "image": "https://betanews.com/wp-content/uploads/2015/05/router.jpg",
+      "title":"routers",
+      "price":636,
+      "quantity":1
+    },
+    {
+      "id": 13,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bgqR0BQhL._SL1500_.jpg",
+      "title":"Earphones",
+      "price":736,
+      "quantity":1
+    },
+    {
+      "id":14,
+      "image":"https://images.furnituredealer.net/img/products/whirlpool/color/french%20door%20refrigerators-%20whirlpool_wrf767sdhv-b1.jpg",
+      "title":"Refridgerator",
+      "price":960,
+      "quantity":1
+    },
+    {
+      "id": 15,
+      "image": "https://storage.beko.co.uk/blomberg2018products/large/Blomberg_WashingMachine_LWF28442B_Black_AngledClosed.jpg",
+      "title":"Washing Machine",
+      "price":336,
+      "quantity":1
+    },
+    {
+      "id":16,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71IIHq-oZrL._AC_SL1500_.jpg",
+      "title":"Projector",
+      "price":1060,
+      "quantity":1
+    }
+  ],
+  "student":[
+    
+  ]
+}
